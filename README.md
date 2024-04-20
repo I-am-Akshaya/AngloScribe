@@ -22,7 +22,7 @@ Before you run the application, make sure you have Python installed. You can dow
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/I-am-Akshaya/your-repo.git
+git clone https://github.com/I-am-Akshaya/AngloScribe.git
 Navigate to the project directory:
 bash
 Copy code
